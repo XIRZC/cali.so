@@ -79,15 +79,13 @@ export function Headline() {
           delay: 0.1,
         }}
       >
-        <Balancer> 
+        <Balancer>
           <b>Hello🤪, 我是</b>
-          <PeekabooLink href="https://blog.mrxir.cloud/">
-            mrxirzzz
-          </PeekabooLink>
-          <br/>
+          <PeekabooLink href="https://blog.mrxir.cloud/">mrxirzzz</PeekabooLink>
+          <br />
           一名在读研究生🤡，热爱Web🌐、Linux💻、AI🤖等技术,
-          <br/>
-          Knowledge isn't free. You have to pay attention. 😹
+          <br />
+          Knowledge is not free. You have to pay attention. 😹
         </Balancer>
       </motion.p>
       <motion.div
