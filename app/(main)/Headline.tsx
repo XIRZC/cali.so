@@ -79,11 +79,15 @@ export function Headline() {
           delay: 0.1,
         }}
       >
-        <Balancer>
-          我是 Cali，
-          <PeekabooLink href="https://zolplay.com">佐玩</PeekabooLink>
-          创始人，目前带领着佐玩致力于创造一个充满创造力的工作环境，同时鼓励团队创造影响世界的产品。
-          我热爱开发，设计，创新，享受生活，以及在未知领域中探索。
+        <Balancer> 
+          <b>Hello🤪, 我是</b>
+          <PeekabooLink href="https://blog.mrxir.cloud/">
+            mrxirzzz
+          </PeekabooLink>
+          <br/>
+          一名在读研究生🤡，热爱Web🌐、Linux💻、AI🤖等技术,
+          <br/>
+          Knowledge isn't free. You have to pay attention. 😹
         </Balancer>
       </motion.p>
       <motion.div
@@ -99,33 +103,33 @@ export function Headline() {
         }}
       >
         <SocialLink
-          href="https://cali.so/twitter"
+          href="https://blog.mrxir.cloud/twitter"
           aria-label="我的推特"
           platform="twitter"
         />
         <SocialLink
-          href="https://cali.so/youtube"
+          href="https://blog.mrxir.cloud/youtube"
           aria-label="我的 YouTube"
           platform="youtube"
         />
         <SocialLink
-          href="https://cali.so/bilibili"
+          href="https://blog.mrxir.cloud/bilibili"
           aria-label="我的 Bilibili"
           platform="bilibili"
         />
         <SocialLink
-          href="https://cali.so/github"
+          href="https://blog.mrxir.cloud/github"
           aria-label="我的 GitHub"
           platform="github"
         />
         <SocialLink
-          href="https://cali.so/tg"
+          href="https://blog.mrxir.cloud/tg"
           aria-label="我的 Telegram"
           platform="telegram"
         />
         <SocialLink href="/feed.xml" platform="rss" aria-label="RSS 订阅" />
         <SocialLink
-          href="mailto:hi@cali.so"
+          href="mailto:zicongxie@foxmail.com"
           aria-label="我的邮箱"
           platform="mail"
         />
